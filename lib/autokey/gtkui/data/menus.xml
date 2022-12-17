@@ -47,6 +47,7 @@
 	</menubar>
         <toolbar name="Toolbar">
             <toolitem action="save" />
+            <toolitem action="delete-item" />
             <separator />
             <toolitem action="undo" />
             <toolitem action="redo" />
@@ -54,7 +55,7 @@
             <toolitem action="cut-item" />
             <toolitem action="copy-item" />
             <toolitem action="paste-item" />
-            <toolitem action="delete-item" />
+            
             <separator />
             <toolitem action="run" />
             <toolitem action="script-error"/>
